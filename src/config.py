@@ -1,0 +1,4 @@
+MAX_TRIALS = 5
+MEMORY_SIZE = 50
+MODEL_NAME = "gpt-4o-mini"   
+TEMPERATURE = 0.7
